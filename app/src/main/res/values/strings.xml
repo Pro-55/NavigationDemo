@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NavigationDemo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="string_go_to_profile">Go To Profile</string>
+    <string name="string_go_to_main">Go To Main</string>
+    <string name="string_go_to_settings">Go To Settings</string>
+    <string name="string_profile">Profile</string>
+    <string name="string_main">Main</string>
+    <string name="string_settings">Settings</string>
+</resources>
